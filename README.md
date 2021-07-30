@@ -4,6 +4,6 @@ Os modelos de Machine Learning utilizados e suas respectivas taxas de acerto for
   1) Rede Neural (98.4%).
   2) RandomForest (92,6%). 
   3) Árvores de Decisão (90,0%). 
-  4) NaixeBayes (87,4%).
+  4) NaiveBayes (87,4%).
   5) SVC – (80,0%). 
   6) KNN (77,4%).
