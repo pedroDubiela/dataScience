@@ -52,9 +52,9 @@ Apresento abaixo as classes e os atributos previsores, os quais não traduzi, po
     
 # Resultados:
 Os modelos de Machine Learning utilizados e suas respectivas taxas de acerto foram:
-  1) Rede Neural (98.4%).
+  1) Rede Neural (97.4%).
   2) RandomForest (92,6%). 
-  3) Árvores de Decisão (90,0%). 
+  3) Árvores de Decisão (90,1%). 
   4) NaiveBayes (87,4%).
   5) SVC – (80,0%). 
   6) KNN (77,4%).
