@@ -5,7 +5,7 @@ Desenvolvimento de um sistema especializado para diagnóstico de doenças na pla
 Aplicando métodos de Machine Learning (classificação - aprendizado supervisionado) em uma base de dados histórica que correlaciona diversas características apresentada pela soja com sua respectiva doença, os modelos serão treinados para diagnóstico dessas doenças.
 
 # Descrição do Banco de Dados:
-O banco de dados possui 35 atributos previsores, ou seja, ele traz 35 características avaliadas que estão correlacionadas a uma doença específica, tais como: Data da plantação; Características das folhas; se houve granizo ou não; Manchas nas olhas; tamanho das manchas etc. A base histórica traz 683 registros analisados, que estão classificados dentre 19 tipos de doenças (as classes).
+O banco de dados possui 35 atributos previsores, ou seja, ele traz 35 características avaliadas que estão correlacionadas a uma doença específica, tais como: Data da plantação; Características das folhas; se houve granizo ou não; Manchas nas folhas; tamanho das manchas etc. A base histórica traz 683 registros analisados, que estão classificados dentre 19 tipos de doenças (as classes).
 Apresento abaixo as classes e os atributos previsores, os quais não traduzi, pois dentro da própria análise também utilizei os nomes em inglês:
 
   1)Classes: Diaporthe-stem-canker, charcoal-rot, rhizoctonia-root-rot, phytophthora-rot, brown-stem-rot,
